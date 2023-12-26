@@ -1,6 +1,6 @@
 # Projeto Spring Boot
 
-O projeto "Spring Boot Primeiro Exemplo" é uma aplicação Java desenvolvida com o framework Spring Boot. Ele consiste em três pacotes principais: br.com.gomes.domain para a definição da entidade Cliente, br.com.gomes.repository para a interface de repositório do Cliente, e br.com.gomes.SpringBootPrimeiroExemplo para a configuração e execução da aplicação.
+O projeto "Spring Boot Primeiro Exemplo" é uma aplicação Java desenvolvida com o framework Spring Boot. Ele consiste em três pacotes principais: br.com.pazzini.domain para a definição da entidade Cliente, br.com.pazzini.repository para a interface de repositório do Cliente, e br.com.pazzini.SpringBootPrimeiroExemplo para a configuração e execução da aplicação.
 
 A classe Cliente representa a entidade a ser persistida no banco de dados, contendo atributos como nome, CPF, telefone, e outros. A interface IClienteRepository estende CrudRepository do Spring, fornecendo operações básicas de CRUD para a entidade Cliente.
 
